@@ -20,6 +20,6 @@ Planned initial features:
 
 Addon ideas:
 - Chrome up: install prosthetic gizmos and customize yourself in many different ways or turn yourself into a full body prosthesis,
-             heavily inspired by the cyberware mod, blame, cyberpunk and mechanicus lore.
+             heavily inspired by the cyberware mod, blame and cyberpunk lore.
 - Networld: access the overworld's wild internet dimension with vr gear to steal programs and obtain the ability to hack smart gizmos/implants.
 - Nanotech: programmable matter, magic like gizmos and self building/reproducing/resurrecting robots.
