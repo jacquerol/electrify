@@ -8,7 +8,7 @@ all kinds of electronic components like diodes and transistors with simulated be
 
 The mod is initially planned to (optionally) be a companion for create with colorful sparkly alternatives
 to the mod's clockwork aesthetic while attempting to minimize bloat, focusing on gizmo implementation and then 
-paving the way to modular robotic entities and cyberpunk/mechanicus like implants (possibly in an addon/sepparate mod).
+paving the way to modular robotic entities.
 
 Planned initial features:
 - Wiring system with vanilla aesthetics: cables are 3d modeled and layed on the ground, they can pass through blocks and have outlets with plugs. 
